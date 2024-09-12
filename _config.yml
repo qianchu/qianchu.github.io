@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qianchu (Flora) Liu"
 title_separator          : "-"
 name                     : &name "Qianchu (Flora) Liu 刘千楚"
-description              : &description "Applied Scientist at Amazon AWS, California, US"
+description              : &description "Senior Researcher at Microsoft Research, California, US"
 url                      : https://qianchu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qianchu/qianchu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qianchu (Flora) Liu   刘千楚"
   avatar           : "profile.png"
-  bio              : "Applied Scientist at Amazon AWS"
+  bio              : "Senior Researcher at Microsoft Research"
   location         : "Bay Area, US"
   employer         :
   pubmed           :
