@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an applied scientsit at Amazon AWS working on large language models with clinical applications. Prior to this, I was a researcher at Microsoft Research Cambridge working on multi-modal learning in the clinical domain. I obtained my PhD in Computation, Cognition and Language from <a href="http://ltl.mml.cam.ac.uk/"> Language Technology Lab (LTL)</a> at the University of Cambridge. My current supervisors were Professor <a href="http://www.cl.cam.ac.uk/~alk23/">Anna Korhonen</a> and Dr. <a href="http://www.dianamccarthy.co.uk/">Diana Mccarthy</a>.
+Hello! I am a senior researcher at Microsoft Research, working on multi-modal biomedical foundation models. Prior to this, I am an applied scientsit at Amazon AWS working on large language models with clinical applications. I obtained my PhD in Computation, Cognition and Language from <a href="http://ltl.mml.cam.ac.uk/"> Language Technology Lab (LTL)</a> at the University of Cambridge. My current supervisors were Professor <a href="http://www.cl.cam.ac.uk/~alk23/">Anna Korhonen</a> and Dr. <a href="http://www.dianamccarthy.co.uk/">Diana Mccarthy</a>.
 
 Research Interests
 ======
