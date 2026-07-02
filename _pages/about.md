@@ -26,7 +26,6 @@ Research Output
             </a> <br>
 		<b>Qianchu Liu</b>, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon
 		Proposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a><br>
-
 <br>
 <a href="https://arxiv.org/abs/2505.03981">
 	    <b>X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains</b>
