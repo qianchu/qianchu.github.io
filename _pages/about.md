@@ -20,21 +20,21 @@ Research Output
 		<b>Qianchu Liu</b>, Sheng Zhang, Guanghui Qin, Jeya Maria Jose Valanarasu, Maximilian Rokuss, Mingyu Lu, Timothy Ossowski, Juan Manuel Zambrano Chaves, Cliff Wong, Peniel Argaw, Yashna Hasija, Mu Wei, Wen-wai Yim, Qin Liu, Zilin Jing, Jason Entenmann, Naoto Usuyama, Tristan Naumann, Hoifung Poon
 		<a href="https://microsoft.github.io/HealthAgentBench/"> website </a> , 
 		<a href="https://github.com/microsoft/HealthAgentBench"> benchmark </a>
-</a> <br>
+ <br>
 <br>
 <a href="https://arxiv.org/abs/2505.03981">
 	    <b>Scaling medical imaging report generation with multimodal reinforcement learning</b>
             </a> <br>
 		<b>Qianchu Liu</b>, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon
 		Proposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a>
-</a> <br>
+ <br>
 
 <br>
 <a href="https://arxiv.org/abs/2505.03981">
 	    <b>X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains</b>
             </a> <br>
 		<b>Qianchu Liu</b>, Sheng Zhang, Guanghui Qin, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon <a href="https://huggingface.co/microsoft/X-Reasoner-7B"> model </a>
-</a> <br>
+ <br>
 <br>
 <a href="https://arxiv.org/pdf/2310.14573.pdf">
 	    <b>Exploring the Boundaries of GPT-4 in Radiology</b>
