@@ -19,28 +19,28 @@ Research Output (* equal contributions)
             </a> <br>
 		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Jeya Maria Jose Valanarasu, Maximilian Rokuss, Mingyu Lu, Timothy Ossowski, Juan Manuel Zambrano Chaves, Cliff Wong, Peniel Argaw, Yashna Hasija, Mu Wei, Wen-wai Yim, Qin Liu, Zilin Jing, Jason Entenmann, Naoto Usuyama, Tristan Naumann, Hoifung Poon
 		<a href="https://microsoft.github.io/HealthAgentBench/"> website </a> , 
-		<a href="https://github.com/microsoft/HealthAgentBench"> benchmark </a><br>
+		<a href="https://github.com/microsoft/HealthAgentBench"> benchmark </a>, 2026<br>
 <br>
 <a href="https://arxiv.org/abs/2601.17151">
 	    <b>Scaling medical imaging report generation with multimodal reinforcement learning</b>
             </a> <br>
-		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon
-		Proposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a><br>
+		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon, 2026<br>
+		The roposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a>, 2026<br>
 <br>
 <a href="https://arxiv.org/abs/2505.03981">
 	    <b>X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains</b>
             </a> <br>
-		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon <a href="https://huggingface.co/microsoft/X-Reasoner-7B"> model </a><br>
+		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon <a href="https://huggingface.co/microsoft/X-Reasoner-7B"> model </a>, 2025<br>
 		<br>
 <a href="https://arxiv.org/abs/2502.19655">
         <b>Med-RLVR: Emerging Medical Reasoning from a 3B Base Model via Reinforcement Learning</b>
         </a> <br>
-        Sheng Zhang*, <b>Qianchu Liu*</b>, Guanghui Qin*, Tristan Naumann, Hoifung Poon <br>
+        Sheng Zhang*, <b>Qianchu Liu*</b>, Guanghui Qin*, Tristan Naumann, Hoifung Poon, 2025 <br>
 		<br>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34575">
         <b>CriSPO: Multi-Aspect Critique-Suggestion-Guided Automatic Prompt Optimization for Text Generation</b>
         </a> <br>
-        Han He*, <b>Qianchu Liu*</b>, Lei Xu*, Chaitanya Joshi, Huan Sun <br>
+        Han He*, <b>Qianchu Liu*</b>, Lei Xu*,  Chaitanya Shivade, Yi Zhang, Sundararajan Srinivasan, Katrin Kirchhoff <br>
         In <i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2025)</i> <a href="https://github.com/amazon-science/crispo"> code </a>
 <br>
 <br>
