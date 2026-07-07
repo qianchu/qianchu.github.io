@@ -11,26 +11,26 @@ redirect_from:
 Hello! I am a senior researcher at Microsoft Research working on AI for health, working with <a href="https://www.microsoft.com/en-us/research/people/hoifung/"> Hoifung Poon</a>. Prior to this, I was an applied scientist at Amazon AWS working on large language models with clinical applications. I obtained my PhD in Computation, Cognition and Language from <a href="http://ltl.mml.cam.ac.uk/"> Language Technology Lab (LTL)</a> at the University of Cambridge.
 
 
-Research Output (* equal contributions)
+Research Output (&#42; equal contributions)
 ======
 
 <a href="https://arxiv.org/abs/2606.31179">
 	    <b>HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents</b>
             </a> <br>
-		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Jeya Maria Jose Valanarasu, Maximilian Rokuss, Mingyu Lu, Timothy Ossowski, Juan Manuel Zambrano Chaves, Cliff Wong, Peniel Argaw, Yashna Hasija, Mu Wei, Wen-wai Yim, Qin Liu, Zilin Jing, Jason Entenmann, Naoto Usuyama, Tristan Naumann, Hoifung Poon
+		<b>Qianchu Liu&#42;</b>, Sheng Zhang&#42;, Guanghui Qin&#42;, Jeya Maria Jose Valanarasu, Maximilian Rokuss, Mingyu Lu, Timothy Ossowski, Juan Manuel Zambrano Chaves, Cliff Wong, Peniel Argaw, Yashna Hasija, Mu Wei, Wen-wai Yim, Qin Liu, Zilin Jing, Jason Entenmann, Naoto Usuyama, Tristan Naumann, Hoifung Poon,
 		<a href="https://microsoft.github.io/HealthAgentBench/"> website </a> , 
 		<a href="https://github.com/microsoft/HealthAgentBench"> benchmark </a>, 2026<br>
 <br>
 <a href="https://arxiv.org/abs/2601.17151">
 	    <b>Scaling medical imaging report generation with multimodal reinforcement learning</b>
             </a> <br>
-		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon, 2026<br>
-		The roposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a>, 2026<br>
+		<b>Qianchu Liu&#42;</b>, Sheng Zhang&#42;, Guanghui Qin&#42;, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon, 2026<br>
+		The proposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a>, 2026<br>
 	<br>
 <a href="https://arxiv.org/abs/2511.23269">
         <b>OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning</b>
         </a> <br>
-        Timothy Ossowski, Sheng Zhang, <b>Qianchu Liu</b>, Guanghui Qin, Reuben Tan, Tristan Naumann, Junjie Hu, Hoifung Poon
+        Timothy Ossowski&#42;, Sheng Zhang&#42;, <b>Qianchu Liu</b>, Guanghui Qin, Reuben Tan, Tristan Naumann, Junjie Hu, Hoifung Poon,
         <a href="https://huggingface.co/OctoMed/OctoMed-7B"> model </a><br>
         In <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (CVPR 2026), pp. 26251–26261.
 <br>
@@ -38,17 +38,17 @@ Research Output (* equal contributions)
 <a href="https://arxiv.org/abs/2505.03981">
 	    <b>X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains</b>
             </a> <br>
-		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon <a href="https://huggingface.co/microsoft/X-Reasoner-7B"> model </a>, 2025<br>
+		<b>Qianchu Liu&#42;</b>, Sheng Zhang&#42;, Guanghui Qin&#42;, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon <a href="https://huggingface.co/microsoft/X-Reasoner-7B"> model </a>, 2025<br>
 		<br>
 <a href="https://arxiv.org/abs/2502.19655">
         <b>Med-RLVR: Emerging Medical Reasoning from a 3B Base Model via Reinforcement Learning</b>
         </a> <br>
-        Sheng Zhang*, <b>Qianchu Liu*</b>, Guanghui Qin*, Tristan Naumann, Hoifung Poon, 2025 <br>
+        Sheng Zhang&#42;, <b>Qianchu Liu&#42;</b>, Guanghui Qin&#42;, Tristan Naumann, Hoifung Poon, 2025 <br>
 		<br>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34575">
         <b>CriSPO: Multi-Aspect Critique-Suggestion-Guided Automatic Prompt Optimization for Text Generation</b>
         </a> <br>
-        Han He*, <b>Qianchu Liu*</b>, Lei Xu*,  Chaitanya Shivade, Yi Zhang, Sundararajan Srinivasan, Katrin Kirchhoff <br>
+        Han He&#42;, <b>Qianchu Liu&#42;</b>, Lei Xu&#42;,  Chaitanya Shivade, Yi Zhang, Sundararajan Srinivasan, Katrin Kirchhoff <br>
         In <i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2025)</i> <a href="https://github.com/amazon-science/crispo"> code </a>
 <br>
 <br>
