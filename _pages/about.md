@@ -11,26 +11,38 @@ redirect_from:
 Hello! I am a senior researcher at Microsoft Research working on AI for health.  Prior to this, I was an applied scientist at Amazon AWS working on large language models with clinical applications. I obtained my PhD in Computation, Cognition and Language from <a href="http://ltl.mml.cam.ac.uk/"> Language Technology Lab (LTL)</a> at the University of Cambridge.
 
 
-Research Output
+Research Output (* equal contributions)
 ======
 
 <a href="https://arxiv.org/abs/2606.31179">
 	    <b>HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents</b>
             </a> <br>
-		<b>Qianchu Liu</b>, Sheng Zhang, Guanghui Qin, Jeya Maria Jose Valanarasu, Maximilian Rokuss, Mingyu Lu, Timothy Ossowski, Juan Manuel Zambrano Chaves, Cliff Wong, Peniel Argaw, Yashna Hasija, Mu Wei, Wen-wai Yim, Qin Liu, Zilin Jing, Jason Entenmann, Naoto Usuyama, Tristan Naumann, Hoifung Poon
+		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Jeya Maria Jose Valanarasu, Maximilian Rokuss, Mingyu Lu, Timothy Ossowski, Juan Manuel Zambrano Chaves, Cliff Wong, Peniel Argaw, Yashna Hasija, Mu Wei, Wen-wai Yim, Qin Liu, Zilin Jing, Jason Entenmann, Naoto Usuyama, Tristan Naumann, Hoifung Poon
 		<a href="https://microsoft.github.io/HealthAgentBench/"> website </a> , 
 		<a href="https://github.com/microsoft/HealthAgentBench"> benchmark </a><br>
 <br>
 <a href="https://arxiv.org/abs/2601.17151">
 	    <b>Scaling medical imaging report generation with multimodal reinforcement learning</b>
             </a> <br>
-		<b>Qianchu Liu</b>, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon
+		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon
 		Proposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a><br>
 <br>
 <a href="https://arxiv.org/abs/2505.03981">
 	    <b>X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains</b>
             </a> <br>
-		<b>Qianchu Liu</b>, Sheng Zhang, Guanghui Qin, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon <a href="https://huggingface.co/microsoft/X-Reasoner-7B"> model </a><br>
+		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon <a href="https://huggingface.co/microsoft/X-Reasoner-7B"> model </a><br>
+		<br>
+<a href="https://arxiv.org/abs/2502.19655">
+        <b>Med-RLVR: Emerging Medical Reasoning from a 3B Base Model via Reinforcement Learning</b>
+        </a> <br>
+        Sheng Zhang*, <b>Qianchu Liu*</b>, Guanghui Qin*, Tristan Naumann, Hoifung Poon <br>
+		<br>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/34575">
+        <b>CriSPO: Multi-Aspect Critique-Suggestion-Guided Automatic Prompt Optimization for Text Generation</b>
+        </a> <br>
+        Han He*, <b>Qianchu Liu*</b>, Lei Xu*, Chaitanya Joshi, Huan Sun <br>
+        In <i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2025)</i> <a href="https://github.com/amazon-science/crispo"> code </a>
+<br>
 <br>
 <a href="https://arxiv.org/pdf/2310.14573.pdf">
 	    <b>Exploring the Boundaries of GPT-4 in Radiology</b>
