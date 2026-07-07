@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a senior researcher at Microsoft Research working on AI for health.  Prior to this, I was an applied scientist at Amazon AWS working on large language models with clinical applications. I obtained my PhD in Computation, Cognition and Language from <a href="http://ltl.mml.cam.ac.uk/"> Language Technology Lab (LTL)</a> at the University of Cambridge.
+Hello! I am a senior researcher at Microsoft Research working on AI for health, working with <a href="https://www.microsoft.com/en-us/research/people/hoifung/"> Hoifung Poon</a>. Prior to this, I was an applied scientist at Amazon AWS working on large language models with clinical applications. I obtained my PhD in Computation, Cognition and Language from <a href="http://ltl.mml.cam.ac.uk/"> Language Technology Lab (LTL)</a> at the University of Cambridge.
 
 
 Research Output (* equal contributions)
@@ -26,6 +26,14 @@ Research Output (* equal contributions)
             </a> <br>
 		<b>Qianchu Liu*</b>, Sheng Zhang*, Guanghui Qin*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon, 2026<br>
 		The roposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a>, 2026<br>
+	<br>
+<a href="https://arxiv.org/abs/2511.23269">
+        <b>OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning</b>
+        </a> <br>
+        Timothy Ossowski, Sheng Zhang, <b>Qianchu Liu</b>, Guanghui Qin, Reuben Tan, Tristan Naumann, Junjie Hu, Hoifung Poon
+        <a href="https://huggingface.co/OctoMed/OctoMed-7B"> model </a><br>
+        In <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (CVPR 2026), pp. 26251–26261.
+<br>
 <br>
 <a href="https://arxiv.org/abs/2505.03981">
 	    <b>X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains</b>
