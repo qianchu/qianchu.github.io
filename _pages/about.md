@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a senior researcher at Microsoft Research working on AI for health, working with <a href="https://www.microsoft.com/en-us/research/people/hoifung/"> Hoifung Poon</a>. Prior to this, I was an applied scientist at Amazon AWS working on large language models with clinical applications. I obtained my PhD in Computation, Cognition and Language from <a href="http://ltl.mml.cam.ac.uk/"> Language Technology Lab (LTL)</a> at the University of Cambridge.
+Hello! I am a senior researcher at Microsoft AI working on AI for health, working with <a href="https://www.microsoft.com/en-us/research/people/hoifung/"> Hoifung Poon</a>. Prior to this, I was an applied scientist at Amazon AWS working on large language models with clinical applications. I obtained my PhD in Computation, Cognition and Language from <a href="http://ltl.mml.cam.ac.uk/"> Language Technology Lab (LTL)</a> at the University of Cambridge.
 
 
 Research Output (&#42; equal contributions)
@@ -25,7 +25,7 @@ Research Output (&#42; equal contributions)
 	    <b>Scaling medical imaging report generation with multimodal reinforcement learning</b>
             </a> <br>
 		<b>Qianchu Liu&#42;</b>, Sheng Zhang&#42;, Guanghui Qin&#42;, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Tim Ossowski, Tristan Naumann, Mu Wei, Hoifung Poon, 2026<br>
-		The proposed UniRG-CXR model is ranked as #1 model in ReXrank leaderboard for radiology report generation <a href="https://rexrank.ai/"> leaderboard result </a>, 2026<br>
+		Under Review. Deployed as an Azure service <a href="https://learn.microsoft.com/en-us/azure/foundry/how-to/healthcare-ai/deploy-cxrreportgen-premium?tabs=rest"> CxrReportGen Premium</a> in Azure AI Foundry, 2026 <a href="https://huggingface.co/microsoft/UniRG-CXR"> model </a> <br>
 	<br>
 <a href="https://arxiv.org/abs/2511.23269">
         <b>OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning</b>
